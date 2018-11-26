@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidReceiver</string>
+    <string name="btnText">Change State</string>
+</resources>
